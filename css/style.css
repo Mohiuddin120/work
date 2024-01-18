@@ -1,0 +1,13 @@
+.menu{
+    text-align: center !important;
+}
+
+.menu ul{
+    list-style: none;
+}
+
+.menu ul li{
+    display: inline-block;
+    color: red;
+    margin-left: 10px;
+}
